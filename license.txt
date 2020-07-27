@@ -1,1 +1,2 @@
-I am a license file
+I am a license file.
+Hello the world!
